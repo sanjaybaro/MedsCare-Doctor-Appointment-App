@@ -1,4 +1,3 @@
-![Screenshot 2023-07-24 115304](https://github.com/sanjaybaro/mere-coast-376/assets/123923491/82983dab-1575-435f-b400-50b89ac3baef)# mere-coast-356
 ## MedsCare
 ### Objective
 The main objective of this website is to catter the appointment system with different schedule in medical scenario. for each category their is different docotors. you can browse the details according what type of treatment you need and accordingly you can book the appointment.
@@ -17,6 +16,7 @@ npm i json-server
 
 ## Start Backend Server
 npm run server
+http://localhost:8080/doctors
 
 ## Features
 React Routing
