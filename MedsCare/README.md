@@ -36,7 +36,7 @@ React Icons
 
 ![Screenshot 2023-07-24 115322](https://github.com/sanjaybaro/mere-coast-376/assets/123923491/e0e2790e-af2b-4d50-a2a7-65acc3d08846)
 
-# Docotors
+# Doctors
 ![Screenshot 2023-07-24 115543](https://github.com/sanjaybaro/mere-coast-376/assets/123923491/b71b4161-89c1-448f-b9d9-97f86320b046)
 
 # Appointment form
