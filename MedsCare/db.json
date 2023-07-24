@@ -1,0 +1,95 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Lee S. Williamson",
+      "speciality": "Surgeon",
+      "avgRating": 4.8,
+      "totalRating": 272,
+      "image": "https://i.ibb.co/b6SDFTN/01.jpg",
+      "totalPatients": 1500,
+      "hospital": "Mount Adora Hospital."
+    },
+    {
+      "id": 2,
+      "name": "Greg S. Grinstead",
+      "speciality": "Neurology",
+	  "avgRating": 4.7,
+      "totalRating": 275,
+      "image": "https://i.ibb.co/gW26qY2/02.jpg",
+	  "totalPatients": 1200, 
+	  "hospital":"City Hospital"
+    },
+    {
+      "id": 3,
+      "name": "Roger K. Jackson",
+      "speciality": "Orthopedics",
+	  "avgRating": 4.5,
+      "totalRating": 300,
+      "image": "https://i.ibb.co/hsyxYVj/03.jpg",
+	  "totalPatients": 1800, 
+	  "hospital":"Hyat Care Hospital"
+    },
+    {
+      "id": 4,
+      "name": "Frank T. Grimsley",
+      "speciality": "Neurology",
+	  "avgRating": 4.9,
+      "totalRating": 100,
+      "image": "https://i.ibb.co/86xBJSh/04.jpg",
+	  "totalPatients": 850, 
+	  "hospital":"New Model Hospital"
+	  
+    },
+    {
+      "id": 5,
+      "name": "Rudolph V. Spitler",
+      "speciality": "Cardiology",
+	  "avgRating": 4.3,
+      "totalRating": 180,
+      "image": "https://i.ibb.co/hWD7NVx/05.jpg",
+	  "totalPatients": 1350, 
+	  "hospital":"GMCH Hospital"
+    },
+    {
+      "id": 6,
+      "name": "Erik R. Faulkner",
+      "speciality": "Cardiology",
+	  "avgRating": 4.6,
+      "totalRating": 220,
+      "image": "https://i.ibb.co/hYWtLy1/06.jpg",
+	  "totalPatients": 2200, 
+	  "hospital":"Sawati Hospital"
+    },
+    {
+      "id": 7,
+      "name": "Phillip L. Williams",
+      "speciality": "Neurology",
+	  "avgRating": 4.4,
+      "totalRating": 140,
+      "image": "https://i.ibb.co/dPtTnys/07.jpg",
+	  "totalPatients": 2400, 
+	  "hospital":"Residence Hospital"
+    },
+    {
+      "id": 8,
+      "name": "Johnny R. Atterberry",
+      "speciality": "Orthopedics",
+	  "avgRating": 4.4,
+      "totalRating": 140,
+      "image": "https://i.ibb.co/ypmBR9k/08.jpg",
+	  "totalPatients": 2700, 
+	  "hospital":"Ulcer care Hospital"
+    },
+    {
+      "id": 9,
+      "name": "Michael I. Johnson",
+      "speciality": "Medecine",
+	  "avgRating": 4.4,
+      "totalRating": 140,
+      "image": "https://i.ibb.co/nj8qcCS/09.jpg",
+	  "totalPatients": 2800, 
+	  "hospital":"Happy Care Hospital"
+    }
+  ]
+}

@@ -37,7 +37,7 @@ const Home = () => {
                     exercitationem minima voluptatibus voluptates blanditiis.
                     Optio quisquam veritatis dolores debitis!
                   </p>
-                  <button className="btn">Request an Appointment</button>
+                  <button className="btn"><Link to="/appointment">Request an Appointment</Link></button>
                 </div>
                 {/* ----------Hero counter-------- */}
                 <div className="mt-[30px] lg:mt-[70px] flex flex-col lg:flex-row lg:items-center gap-5 lg:gap-[30px]">
