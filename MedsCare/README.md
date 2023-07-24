@@ -3,6 +3,9 @@
 ### Objective
 The main objective of this website is to catter the appointment system with different schedule in medical scenario. for each category their is different docotors. you can browse the details according what type of treatment you need and accordingly you can book the appointment.
 
+# Netlify Link
+https://64be2a81a1160031a8680b5e--precious-mandazi-2110ad.netlify.app/
+
 ## Run Locally 
 npm run dev
 
