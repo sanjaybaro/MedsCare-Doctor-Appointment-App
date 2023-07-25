@@ -5,8 +5,8 @@ The main objective of this website is to catter the appointment system with diff
 # Netlify Link
 https://64be2a81a1160031a8680b5e--precious-mandazi-2110ad.netlify.app/
 
-# CSS
-Talwind CSS
+# CSS FrameWork
+Tailwind CSS
 
 ## Run Locally 
 npm run dev
